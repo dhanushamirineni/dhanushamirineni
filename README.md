@@ -37,8 +37,3 @@
 [![Dhanush's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=V1P3R-18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/V1P3R-18/github-readme-stats#gh-light-mode-only)
 
 ---
-
-## Watch the Snake Eat My Contributions
-
-![snake gif](https://raw.githubusercontent.com/V1P3R-18/V1P3R-18/main/dist/snake.svg)
-
