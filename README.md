@@ -48,5 +48,3 @@
 <div align="center">
   <img src="https://github.com/V1P3R-18/V1P3R-18/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
-
----
