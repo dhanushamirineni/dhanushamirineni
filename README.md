@@ -26,9 +26,6 @@
 | **DevOps & Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
 
 
-
-
-
 ## Let’s Connect!
 📩 [Email Me](mailto:dhanushamirineni@outlook.com)  
 🌐 [Portfolio Website](http://dhanushamirineni.com/)  
@@ -40,3 +37,8 @@
 [![Dhanush's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=V1P3R-18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/V1P3R-18/github-readme-stats#gh-light-mode-only)
 
 ---
+
+## Watch the Snake Eat My Contributions
+
+![snake gif](https://raw.githubusercontent.com/V1P3R-18/V1P3R-18/main/dist/snake.svg)
+
