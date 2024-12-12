@@ -37,3 +37,9 @@
 [![Dhanush's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=V1P3R-18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/V1P3R-18/github-readme-stats#gh-light-mode-only)
 
 ---
+
+<!-- snake -->
+<div align="center">
+  <img src="https://github.com/V1P3R-18/V1P3R-18/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
