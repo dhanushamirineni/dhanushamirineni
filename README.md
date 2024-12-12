@@ -8,7 +8,7 @@
 ## My Journey
 - 🏆 Recognized for Outstanding Academic Achievement and High-Impact Grant at George Mason University.
 - 💻 Previously, a Program Analyst and Intern at Cognizant, contributing to high-performance system migrations and user-friendly application design.
-- 🌱 Currently exploring **full-stack development**, **cloud solutions**, and **machine learning** applications.
+- 🌱 Currently exploring **software development**, **full-stack development**, **cloud solutions**, and **machine learning** applications.
 
 <!-- ## Tech Stack
 - **Programming:** Python, Java, C, JavaScript, ABAP
@@ -21,7 +21,7 @@
 <div align="left">
   <table>
     <tr>
-      <td align="left" valign="top"><strong>Programming</strong></td>
+      <td align="left"><strong>Programming</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left" valign="top"><strong>Web & Frameworks</strong></td>
+      <td align="left"><strong>Web & Frameworks</strong></td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left" valign="top"><strong>Cloud & Databases</strong></td>
+      <td align="left"><strong>Cloud & Databases</strong></td>
       <td>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -51,7 +51,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left" valign="top"><strong>DevOps & Tools</strong></td>
+      <td align="left"><strong>DevOps & Tools</strong></td>
       <td>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
