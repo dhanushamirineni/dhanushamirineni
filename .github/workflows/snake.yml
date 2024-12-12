@@ -1,15 +1,21 @@
 name: GitHub Snake Game
 
+
+
 on:
+
   # Schedule the workflow to run daily at midnight UTC
 
   schedule:
 
     - cron: "0 0 * * *"
 
+
+
   # Allow manual triggering of the workflow
 
   workflow_dispatch:
+
 
 
   # Trigger the workflow on pushes to the main branch
@@ -21,6 +27,7 @@ on:
       - main
 
 
+
 jobs:
 
   generate:
@@ -30,6 +37,7 @@ jobs:
     timeout-minutes: 10
 
 
+
     steps:
 
       # Step 1: Checkout the repository
@@ -37,6 +45,7 @@ jobs:
       - name: Checkout Repository
 
         uses: actions/checkout@v3
+
 
 
       # Step 2: Generate the snake animations
@@ -52,6 +61,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
 
+
           # Define the output files and their configurations
 
           outputs: |
@@ -65,6 +75,7 @@ jobs:
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
       # Step 3: Deploy the generated files to the 'output' branch
