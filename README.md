@@ -20,3 +20,10 @@
 📩 [Email Me](mailto:dhanushamirineni@outlook.com)  
 🌐 [Portfolio Website](http://dhanushamirineni.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhanushamirineni)  
+
+---
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Dhanush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=V1P3R-18&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/V1P3R-18/github-readme-stats#gh-dark-mode-only)
+[![Dhanush's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=V1P3R-18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/V1P3R-18/github-readme-stats#gh-light-mode-only)
+
+---
