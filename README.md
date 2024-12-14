@@ -14,7 +14,7 @@
 - **Programming:** Python, Java, C, JavaScript, ABAP
 - **Web & Frameworks:** React.js, Node.js, Express.js, Bootstrap
 - **Cloud & Databases:** AWS (S3, EC2, RDS), MySQL, PostgreSQL, DynamoDB
-- **DevOps & Tools:** GitHub, Figma, JIRA, Docker, Kubernetes, Jenkins -->
+- **DevOps & Tools:** GitHub, Figma, JIRA, Docker, Kubernetes, Jenkins-->
 
 ## Tech Stack
 
