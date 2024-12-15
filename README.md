@@ -71,12 +71,13 @@
 <div align="center">
   <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/dhanushamirineni/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhanushamirineni&show_icons=true&theme=dark#gh-dark-mode-only" alt="Dhanush's GitHub stats-Dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhanushamirineni&show_icons=true&theme=dark&cache_seconds=1800#gh-dark-mode-only" alt="Dhanush's GitHub stats-Dark" />
   </a>
   <a href="https://github.com/dhanushamirineni/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhanushamirineni&show_icons=true&theme=default#gh-light-mode-only" alt="Dhanush's GitHub stats-Light" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhanushamirineni&show_icons=true&theme=default&cache_seconds=1800#gh-light-mode-only" alt="Dhanush's GitHub stats-Light" />
   </a>
 </div>
+
 
 
 <!-- snake -->
