@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌟 Aspiring software engineer passionate about solving complex problems and creating impactful solutions.  
-- 🎓 Master’s student(Graduated) in Computer Science at George Mason University | GPA: 3.75/4.0. 
+- 🎓 Master’s student in Computer Science at George Mason University | GPA: 3.75/4.0. 
 - 🛠️ Passionate about developing scalable and efficient systems using modern technologies and frameworks.
 
 ## My Journey
